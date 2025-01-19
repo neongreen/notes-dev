@@ -6,3 +6,4 @@ duckdb
 python
 jupyter
 ast-grep
+nix
