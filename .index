@@ -5,3 +5,4 @@ starship
 duckdb
 python
 jupyter
+ast-grep
