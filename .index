@@ -9,3 +9,4 @@ ast-grep
 nix
 nvim
 zsh
+restic
