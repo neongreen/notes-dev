@@ -1,3 +1,3 @@
-# Project Scopes extension (sets of folders + scoped search\!)
+# Project Scopes extension (sets of folders + scoped search!)
 
  
