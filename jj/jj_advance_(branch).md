@@ -1,8 +1,10 @@
 # jj advance (branch)
 
-Move bookmark from previous commit to current one automatically:
+Move bookmark to the latest commit:
 
 ```toml
+# config
+
 [aliases]
 advance = [
     "bookmark",
@@ -14,4 +16,3 @@ advance = [
 ]
 ```
 
-Location: ~/Library/Application Support/jj/config.toml
